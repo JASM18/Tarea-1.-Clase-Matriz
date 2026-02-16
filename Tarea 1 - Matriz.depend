@@ -1,0 +1,191 @@
+# depslib dependency file v1.0
+1770786051 source:c:\users\axel\desktop\4to semestre\estructura de datos\tarea 1 - matriz\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"CapturaSegura.hpp"
+	"Gestion.hpp"
+
+1770785590 source:c:\users\axel\desktop\4to semestre\estructura de datos\tarea 1 - matriz\matrix.cpp
+	"Matriz.hpp"
+	"Aleatorio.hpp"
+	"CapturaSegura.hpp"
+
+1770737742 c:\users\axel\desktop\4to semestre\estructura de datos\tarea 1 - matriz\matriz.hpp
+	<iostream>
+	<iomanip>
+
+1770786028 source:c:\users\axel\desktop\4to semestre\estructura de datos\tarea 1 - matriz\gesstion.cpp
+	<iostream>
+	"CapturaSegura.hpp"
+	"Gestion.hpp"
+
+1770786028 c:\users\axel\desktop\4to semestre\estructura de datos\tarea 1 - matriz\gestion.hpp
+	"Matriz.hpp"
+
+1770503074 c:\users\axel\desktop\4to semestre\estructura de datos\tarea 1 - matriz\capturasegura.hpp
+	"CapturaSegura.tpp"
+
+1770503074 c:\users\axel\desktop\4to semestre\estructura de datos\tarea 1 - matriz\capturasegura.tpp
+	<iostream>
+	<limits>
+
+1770738572 source:c:\users\axel\desktop\4to semestre\estructura de datos\tarea 1 - matriz\aleatorio.cpp
+	<windows.h>
+
+1770505414 c:\users\axel\desktop\4to semestre\estructura de datos\tarea 1 - matriz\aleatorio.hpp
+
+1770786191 source:e:\documentos\universidad\4to semestre\estructura de datos\tarea 1 - matriz completo\tarea 1 - matriz\gesstion.cpp
+	<iostream>
+	"CapturaSegura.hpp"
+	"Gestion.hpp"
+
+1770789379 e:\documentos\universidad\4to semestre\estructura de datos\tarea 1 - matriz completo\tarea 1 - matriz\capturasegura.hpp
+	"CapturaSegura.tpp"
+
+1770788442 e:\documentos\universidad\4to semestre\estructura de datos\tarea 1 - matriz completo\tarea 1 - matriz\capturasegura.tpp
+	<iostream>
+	<limits>
+
+1770789379 e:\documentos\universidad\4to semestre\estructura de datos\tarea 1 - matriz completo\tarea 1 - matriz\gestion.hpp
+	"Matriz.hpp"
+
+1770789378 e:\documentos\universidad\4to semestre\estructura de datos\tarea 1 - matriz completo\tarea 1 - matriz\matriz.hpp
+	<iostream>
+	<iomanip>
+
+1770789992 source:e:\documentos\universidad\4to semestre\estructura de datos\tarea 1 - matriz completo\tarea 1 - matriz\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"CapturaSegura.hpp"
+	"Gestion.hpp"
+
+1770785590 source:e:\documentos\universidad\4to semestre\estructura de datos\tarea 1 - matriz completo\tarea 1 - matriz\matrix.cpp
+	"Matriz.hpp"
+	"Aleatorio.hpp"
+	"CapturaSegura.hpp"
+
+1770789379 e:\documentos\universidad\4to semestre\estructura de datos\tarea 1 - matriz completo\tarea 1 - matriz\aleatorio.hpp
+
+1770788420 source:e:\documentos\universidad\4to semestre\estructura de datos\tarea 1 - matriz completo\tarea 1 - matriz\aleatorio.cpp
+	<windows.h>
+
+1770790462 source:e:\documentos\universidad\4to semestre\estructura de datos\tarea 1 - matriz completo\tarea 1 - matriz\matriz.cpp
+	"Matriz.hpp"
+	"Aleatorio.hpp"
+	"CapturaSegura.hpp"
+
+1770789992 source:e:\documentos\universidad\4to semestre\estructura de datos\tarea 1 - matriz completo\tarea 1 - matriz\gestion.cpp
+	<iostream>
+	"CapturaSegura.hpp"
+	"Gestion.hpp"
+
+1770788420 source:c:\users\axel\desktop\4to semestre\tarea 1 - matriz completo actualizado\tarea 1 - matriz\aleatorio.cpp
+	<windows.h>
+
+1770792536 source:c:\users\axel\desktop\4to semestre\tarea 1 - matriz completo actualizado\tarea 1 - matriz\gestion.cpp
+	<iostream>
+	"CapturaSegura.hpp"
+	"Gestion.hpp"
+
+1770792536 c:\users\axel\desktop\4to semestre\tarea 1 - matriz completo actualizado\tarea 1 - matriz\capturasegura.hpp
+	"CapturaSegura.tpp"
+
+1770788442 c:\users\axel\desktop\4to semestre\tarea 1 - matriz completo actualizado\tarea 1 - matriz\capturasegura.tpp
+	<iostream>
+	<limits>
+
+1770792536 c:\users\axel\desktop\4to semestre\tarea 1 - matriz completo actualizado\tarea 1 - matriz\gestion.hpp
+	"Matriz.hpp"
+
+1770792841 c:\users\axel\desktop\4to semestre\tarea 1 - matriz completo actualizado\tarea 1 - matriz\matriz.hpp
+	<iostream>
+	<iomanip>
+
+1770792536 source:c:\users\axel\desktop\4to semestre\tarea 1 - matriz completo actualizado\tarea 1 - matriz\matriz.cpp
+	"Matriz.hpp"
+	"Aleatorio.hpp"
+	"CapturaSegura.hpp"
+
+1770792536 c:\users\axel\desktop\4to semestre\tarea 1 - matriz completo actualizado\tarea 1 - matriz\aleatorio.hpp
+
+1770792841 source:c:\users\axel\desktop\4to semestre\tarea 1 - matriz completo actualizado\tarea 1 - matriz\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"CapturaSegura.hpp"
+	"Gestion.hpp"
+
+1770788420 source:d:\axel\downloads\tarea 1 - matriz completo actualizado\tarea 1 - matriz\aleatorio.cpp
+	<windows.h>
+
+1770792922 source:d:\axel\downloads\tarea 1 - matriz completo actualizado\tarea 1 - matriz\gestion.cpp
+	<iostream>
+	"CapturaSegura.hpp"
+	"Gestion.hpp"
+
+1770792536 d:\axel\downloads\tarea 1 - matriz completo actualizado\tarea 1 - matriz\capturasegura.hpp
+	"CapturaSegura.tpp"
+
+1771224526 d:\axel\downloads\tarea 1 - matriz completo actualizado\tarea 1 - matriz\capturasegura.tpp
+	<iostream>
+	<limits>
+
+1770792536 d:\axel\downloads\tarea 1 - matriz completo actualizado\tarea 1 - matriz\gestion.hpp
+	"Matriz.hpp"
+
+1771224556 d:\axel\downloads\tarea 1 - matriz completo actualizado\tarea 1 - matriz\matriz.hpp
+	<iostream>
+	<iomanip>
+
+1771224618 source:d:\axel\downloads\tarea 1 - matriz completo actualizado\tarea 1 - matriz\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"CapturaSegura.hpp"
+	"Gestion.hpp"
+
+1770792922 source:d:\axel\downloads\tarea 1 - matriz completo actualizado\tarea 1 - matriz\matriz.cpp
+	"Matriz.hpp"
+	"Aleatorio.hpp"
+	"CapturaSegura.hpp"
+
+1770792536 d:\axel\downloads\tarea 1 - matriz completo actualizado\tarea 1 - matriz\aleatorio.hpp
+
+1770788420 source:c:\users\jaxel\source\codeblocks\tarea 1 - matriz\aleatorio.cpp
+	<windows.h>
+
+1770792922 source:c:\users\jaxel\source\codeblocks\tarea 1 - matriz\gestion.cpp
+	<iostream>
+	"CapturaSegura.hpp"
+	"Gestion.hpp"
+
+1770792536 c:\users\jaxel\source\codeblocks\tarea 1 - matriz\capturasegura.hpp
+	"CapturaSegura.tpp"
+
+1771224526 c:\users\jaxel\source\codeblocks\tarea 1 - matriz\capturasegura.tpp
+	<iostream>
+	<limits>
+
+1770792536 c:\users\jaxel\source\codeblocks\tarea 1 - matriz\gestion.hpp
+	"Matriz.hpp"
+
+1771224556 c:\users\jaxel\source\codeblocks\tarea 1 - matriz\matriz.hpp
+	<iostream>
+	<iomanip>
+
+1771224618 source:c:\users\jaxel\source\codeblocks\tarea 1 - matriz\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"CapturaSegura.hpp"
+	"Gestion.hpp"
+
+1770792922 source:c:\users\jaxel\source\codeblocks\tarea 1 - matriz\matriz.cpp
+	"Matriz.hpp"
+	"Aleatorio.hpp"
+	"CapturaSegura.hpp"
+
+1770792536 c:\users\jaxel\source\codeblocks\tarea 1 - matriz\aleatorio.hpp
+
